@@ -23,7 +23,7 @@ body {
 	margin-top: 2px;
 	height:128px;
 	margin-left: -12px;
-    margin-right: -12px;
+        margin-right: -12px;
 }
 	
 .header > h6 {
@@ -32,12 +32,12 @@ body {
 		
 .title {
 	color: #a2d5e5;
-	font-size: 35px;
+	font-size: 25px;
 }	
 
 .subtitle {
    color: gold;
-   font-size: 35px;
+   font-size: 25px;
 }
 
 span{
